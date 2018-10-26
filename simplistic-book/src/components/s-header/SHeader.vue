@@ -20,7 +20,9 @@
       <Col span="5">
         <div class="write-register">
           <div class="register">注册</div>
-          <div class="write">写文章</div>
+          <div class="write">
+            <Icon type="md-create" />写文章
+          </div>
         </div>
       </Col>
     </Row>
